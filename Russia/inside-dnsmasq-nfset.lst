@@ -1,4 +1,4 @@
-ipset=/ggpht.com/vpn_domains
+nftset=/ggpht.com/4#inet#fw4#vpn_domains
 nftset=/youtube.com/4#inet#fw4#vpn_domains
 nftset=/cloudflare.net/4#inet#fw4#vpn_domains
 nftset=/brawlstarsgame.com/4#inet#fw4#vpn_domains
